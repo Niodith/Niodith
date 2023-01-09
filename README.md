@@ -1,6 +1,6 @@
 -  Hi, I’m @Niodith
 -  I’m interested in game development and software engineering.
--  I'm currently working in the automotive industry as a project engineer.
+-  I'm currently working as a XR Software and Game Developer after some time in the automotive industry.
 -  I love learning new game engines and new programming languages.
 -  I’m currently able to code (from best to currently learning or not as interested in) C++, C#, Lua, Java/Groovy, GLSL/HLSL, Python and C.
 -  I have fun designing my own game ideas and concepts.
